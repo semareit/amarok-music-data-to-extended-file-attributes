@@ -1,4 +1,4 @@
-# amarok-music-player-to-extended-file-attributes-script
+# amarok-music-data-to-extended-file-attributes
 
 ## Purpose
 
